@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+     http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+<!--    <bean id="beanInstance" class="com.beanlifecycle.springbeanlifecycle.bean.AwareInterfaceImpl"> </bean>-->
+
+<!--    <bean id="productBean" class="com.beanlifecycle.springbeanlifecycle.bean.ProductBean">-->
+<!--        <property name="productName" value="product name"/>-->
+<!--    </bean>-->
+
+<!--    <bean id="productBeanPostProcessor" class="com.beanlifecycle.springbeanlifecycle.bean.BeanPostProcessorImpl"/>-->
+
+<!--    <bean id="beanInstance" class="com.beanlifecycle.springbeanlifecycle.bean.BeanInstance">-->
+<!--        <property name="var" value="BeanInstance Starting"/>-->
+<!--    </bean>-->
+
+<!--    <bean id="customBean"-->
+<!--          class="com.beanlifecycle.springbeanlifecycle.bean.CustomBean"-->
+<!--          init-method="init"-->
+<!--          destroy-method="destroy">-->
+<!--        <property name="var" value="Hello world! "/>-->
+<!--    </bean>-->
+
+</beans>
